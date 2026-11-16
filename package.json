@@ -1,0 +1,15 @@
+{
+  "name": "nave-mod-feedback-server",
+  "version": "1.0.0",
+  "description": "Auto Feedback server for NAVE MOD — Vercel deployment",
+  "private": true,
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  }
+}
